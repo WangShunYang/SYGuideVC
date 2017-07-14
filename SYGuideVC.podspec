@@ -8,6 +8,7 @@ Pod::Spec.new do |s|
  
   s.description  = <<-DESC
                    SYGuideVC
+		app lunch scroll views
 		DESC
   s.homepage     =  "https://github.com/WangShunYang/SYGuideVC"
 
