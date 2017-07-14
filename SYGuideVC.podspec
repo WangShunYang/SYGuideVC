@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
  
   s.author             = { "王顺扬" => "13783628856@163.com" }
-  s.source       = { :git => "https://github.com/WangShunYang/SYGuideVC.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/WangShunYang/SYGuideVC.git" }
 
   s.source_files  = "SYGuideVC/*.swift"
  
